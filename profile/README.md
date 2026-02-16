@@ -26,12 +26,13 @@ We specialize in high-performance AI integration and corporate SaaS solutions.
 [![Website](https://img.shields.io/badge/Website-vojic.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vojic.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vojic_LLC-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/vojicllc)
 
+---
 ### 📊 GitHub Activity & Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vojic-LLC&show_icons=true&theme=visionary&count_private=true" alt="Vojic Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vojic-LLC&show_icons=true&theme=visionary&count_private=true&cache_seconds=1800" alt="Vojic Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vojic-LLC&layout=compact&theme=visionary&langs_count=6" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vojic-LLC&layout=compact&theme=visionary&langs_count=6&cache_seconds=1800" alt="Top Langs" />
 </p>
