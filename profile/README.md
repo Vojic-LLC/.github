@@ -5,23 +5,23 @@ Welcome to the official GitHub organization of **Vojic LLC**. We specialize in h
 
 ---
 
-### 🛠 Our Tech Stack
+### 🛠 Tech Stack & Infrastructure
 
-#### AI & Processing
-![Deepgram](https://img.shields.io/badge/Deepgram-FB542B?style=for-the-badge&logo=deepgram&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+#### 🧠 AI & Language Processing
+[![DeepSeek](https://img.shields.io/badge/DeepSeek-6425FF?style=for-the-badge&logo=deepseek&logoColor=white)](https://www.deepseek.com/)
+[![Deepgram](https://img.shields.io/badge/Deepgram-FB542B?style=for-the-badge&logo=deepgram&logoColor=white)](https://deepgram.com/)
+[![DeepL](https://img.shields.io/badge/DeepL-0F2B46?style=for-the-badge&logo=deepl&logoColor=white)](https://www.deepl.com/)
+[![Recall.ai](https://img.shields.io/badge/Recall.ai-000000?style=for-the-badge&logo=recall&logoColor=white)](https://www.recall.ai/)
 
-#### Backend & Database
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+#### ☁️ Backend & Cloud
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Google Anti-Gravity](https://img.shields.io/badge/Google_Anti--Gravity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://archive.google.com/gravity/)
 
-#### Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-#### Security & Infrastructure
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Trust](https://img.shields.io/badge/Trusted_Signing-FFB900?style=for-the-badge&logo=microsoft&logoColor=black)
+#### 🛡️ Development & Security
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Azure Trusted Signing](https://img.shields.io/badge/Azure_Trusted_Signing-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/azure/trusted-signing/)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ### 📬 Connect with us
 - **Website:** [vojic.com](https://www.vojic.com)
