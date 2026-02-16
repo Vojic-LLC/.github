@@ -22,7 +22,6 @@ We specialize in high-performance AI integration and corporate SaaS solutions.
 [![Azure Trusted Signing](https://img.shields.io/badge/Azure_Trusted_Signing-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/azure/trusted-signing/)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-### 📬 Connect with us
-- **Website:** [vojic.com](https://www.vojic.com)
-- **Email:** info@vojic.com
-- **LinkedIn:** [Vojic LLC](https://www.linkedin.com/company/vojicllc)
+### 📩 Get in Touch
+[![Website](https://img.shields.io/badge/Website-vojic.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vojic.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vojic_LLC-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/vojicllc)
