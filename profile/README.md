@@ -30,9 +30,9 @@ We specialize in high-performance AI integration and corporate SaaS solutions.
 ### 📊 GitHub Activity & Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vojic-LLC&show_icons=true&theme=visionary&count_private=true&cache_seconds=1800" alt="Vojic Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vojic-LLC&show_icons=true&theme=dark&count_private=true" alt="Vojic Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vojic-LLC&layout=compact&theme=visionary&langs_count=6&cache_seconds=1800" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vojic-LLC&layout=compact&theme=dark&langs_count=6" alt="Top Langs" />
 </p>
